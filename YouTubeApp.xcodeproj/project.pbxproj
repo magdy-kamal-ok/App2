@@ -17,6 +17,7 @@
 		141C979C207838720051EA2D /* TrendingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141C979B207838720051EA2D /* TrendingCell.swift */; };
 		141C979E20783BA00051EA2D /* SubscriptionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141C979D20783BA00051EA2D /* SubscriptionCell.swift */; };
 		141F80DF2076EBB0004A4768 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141F80DE2076EBB0004A4768 /* ApiService.swift */; };
+		14233331207AC99F00D6043C /* VideoLancher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14233330207AC99F00D6043C /* VideoLancher.swift */; };
 		14424269206FE59F00873415 /* SettingsLancher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14424268206FE59F00873415 /* SettingsLancher.swift */; };
 		1442426B206FF0DC00873415 /* SettingsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1442426A206FF0DC00873415 /* SettingsCell.swift */; };
 		149AAD122069A6AA000E4B64 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149AAD112069A6AA000E4B64 /* Extensions.swift */; };
@@ -38,6 +39,7 @@
 		141C979B207838720051EA2D /* TrendingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrendingCell.swift; sourceTree = "<group>"; };
 		141C979D20783BA00051EA2D /* SubscriptionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubscriptionCell.swift; sourceTree = "<group>"; };
 		141F80DE2076EBB0004A4768 /* ApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
+		14233330207AC99F00D6043C /* VideoLancher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoLancher.swift; sourceTree = "<group>"; };
 		14424268206FE59F00873415 /* SettingsLancher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsLancher.swift; sourceTree = "<group>"; };
 		1442426A206FF0DC00873415 /* SettingsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsCell.swift; sourceTree = "<group>"; };
 		149AAD112069A6AA000E4B64 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				149AAD112069A6AA000E4B64 /* Extensions.swift */,
+				14233330207AC99F00D6043C /* VideoLancher.swift */,
 			);
 			name = Helpers;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 				1419BE90206048DA001543D3 /* AppDelegate.swift in Sources */,
 				14424269206FE59F00873415 /* SettingsLancher.swift in Sources */,
 				149AAD122069A6AA000E4B64 /* Extensions.swift in Sources */,
+				14233331207AC99F00D6043C /* VideoLancher.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
